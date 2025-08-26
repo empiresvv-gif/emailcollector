@@ -411,6 +411,7 @@ body{
 }
 .fa-circle-user{
     display: flex;
+    justify-content: center;
     align-items: center;
     font-size: 1.4em;
     color: rgb(255, 255, 255);
@@ -436,4 +437,5 @@ body{
         background-color: hsl(200, 20%, 95%);
     }
 }
+
 
